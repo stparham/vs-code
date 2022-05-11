@@ -1,0 +1,16 @@
+{
+  "editor.cursorSurroundingLines": 4,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "gitlens.hovers.currentLine.over": "line",
+  "go.useLanguageServer": true,
+  "go.toolsManagement.autoUpdate": true,
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": [
+    "--fast"
+  ],
+  "redhat.telemetry.enabled": false,
+}
