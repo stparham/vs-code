@@ -3,6 +3,7 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.renderWhitespace": "all",
   "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
   "gitlens.hovers.currentLine.over": "line",
